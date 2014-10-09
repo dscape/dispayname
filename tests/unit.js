@@ -34,7 +34,3 @@ test('should be able to remove element that do not exist', function(assert) {
   }), 'mr job');
   assert.end();
 });
-
-//
-//
-//
